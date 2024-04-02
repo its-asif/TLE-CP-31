@@ -1,0 +1,10 @@
+*.exe
+*.exe~
+*.in
+*.in~
+.vscode
+.cph
+test.cpp
+*.bin
+*.bin~
+*.sublime-workspace
