@@ -19,7 +19,7 @@ int main(){
 	    	mp[ temp % y ].push_back( temp % x );
 	    }
 
-	    int cnt = 0;
+	    ll cnt = 0;
 	    for(auto each : mp){
 	    	map<int, int> m;
 
@@ -31,7 +31,6 @@ int main(){
 	    }
 
 	    cout << cnt << endl;
-
 	}
 	return 0;
 }
